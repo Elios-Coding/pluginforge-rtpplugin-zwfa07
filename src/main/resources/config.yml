@@ -1,0 +1,13 @@
+# RTPPlugin configuration
+activated: false
+server-ip: ""
+cooldown: 60
+default-radius:
+  min: 500
+  max: 1500
+gui-ranges:
+  - "500-1000"
+  - "1000-2000"
+  - "2000-5000"
+  - "5000-10000"
+firebase-url: "https://rtp-backend-6c475-default-rtdb.firebaseio.com"
